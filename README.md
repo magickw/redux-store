@@ -47,8 +47,6 @@ Below is the demostration of this application.
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Javascript Web Tokens](https://jwt.io/)
 * [React](https://reactjs.org/docs/getting-started.html)
-* [Material UI](https://mui.com/)
-* [Hover.CSS](http://ianlunn.github.io/Hover/)
 * [MongoDB](https://docs.mongodb.com/)
 * [Mongoose](https://mongoosejs.com/docs/api.html)
 * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
