@@ -1,4 +1,6 @@
 import { useReducer } from "react";
+import { combineReducers } from "redux";
+
 import {
   UPDATE_PRODUCTS,
   ADD_TO_CART,
@@ -69,7 +71,7 @@ export const reducer = (state = initialState, action) => {
         cartOpen: false,
         cart: []
       };
-
+ //move in cart
     case TOGGLE_CART:
       return {
         ...state,
@@ -82,6 +84,7 @@ export const reducer = (state = initialState, action) => {
         categories: [...action.categories],
       };
 
+    //returns copy with updated array
     case UPDATE_CURRENT_CATEGORY:
       return {
         ...state,
@@ -92,5 +95,12 @@ export const reducer = (state = initialState, action) => {
       return state;
   }
 };
+
+
+// export function useProductReducer(initialState) {
+//   return useReducer(reducer, initialState);
+// }
+
+//exporting the correct funtion const from above
 
 export default reducer;

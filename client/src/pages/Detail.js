@@ -19,6 +19,7 @@ function Detail() {
   // const [state, dispatch] = useStoreContext();
   const dispatch = useDispatch();
   const state = useSelector((state) => state);
+  
   const { id } = useParams();
 
   const [currentProduct, setCurrentProduct] = useState({});
