@@ -35,17 +35,25 @@ Type the following command in your termimal:
 
 ## Demo
 Below is the demostration of this application. 
-<img src="images/demo.gif" alt="demo" />
+<img src="client/src/assets/Shop-Shop.gif" alt="demo" />
 
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Built With
 
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
-* [NodeJS](https://nodejs.org/en/)
-* [ExpressJS](https://expressjs.com/)
-* [mySQL](https://www.mysql.com/)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Javascript Web Tokens](https://jwt.io/)
+* [React](https://reactjs.org/docs/getting-started.html)
+* [Material UI](https://mui.com/)
+* [Hover.CSS](http://ianlunn.github.io/Hover/)
+* [MongoDB](https://docs.mongodb.com/)
+* [Mongoose](https://mongoosejs.com/docs/api.html)
+* [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* [GraphQL](https://graphql.org/learn/)
+* [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
   
 **[⬆ back to top](#table-of-contents)**
 
